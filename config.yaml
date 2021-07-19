@@ -1,7 +1,7 @@
 assigness: []
 harvest_options:
   path: s3://ooi-data
-  refresh: true
+  refresh: false
   test: false
 instrument: RS03AXPS-PC03A-4C-FLORDD303
 stream:
