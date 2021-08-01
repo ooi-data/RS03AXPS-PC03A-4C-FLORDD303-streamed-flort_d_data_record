@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXPS-PC03A-4C-FLORDD303-streamed-flort_d_data_record
-last_request: '2021-07-19T18:02:41.624604Z'
+last_request: '2021-08-01T01:02:28.151965Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-PC03A-4C-FLORDD303-streamed-flort_d_data_record/main/history/response.json
-status: success
+status: pending
